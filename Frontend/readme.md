@@ -1,0 +1,1 @@
+npm install axios react-chartjs-2 tailwindcss
